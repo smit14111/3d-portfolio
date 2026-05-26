@@ -7,6 +7,7 @@ Personal portfolio website with a 3D character scene, scroll-driven animations, 
 - **GitHub:** [github.com/smit14111](https://github.com/smit14111)
 - **LinkedIn:** [linkedin.com/in/smit-c](https://www.linkedin.com/in/smit-c)
 - **Resume:** [`public/Smit_Resume.pdf`](public/Smit_Resume.pdf)
+- **Live:** https://3d-portfolio-brown-kappa.vercel.app/
 
 ## Featured projects
 
